@@ -1,0 +1,10 @@
+.vscode/*
+Aga.Controls.dll
+OpenHardwareMonitor.*
+OpenHardwareMonitorLib.*
+OpenHardwareMonitorLog*
+OxyPlot*
+License.html
+temperature_data.csv
+sounds/*.wav
+readme.md
